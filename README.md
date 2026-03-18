@@ -19,3 +19,9 @@ Implementação utilizando o hook moderno da biblioteca, permitindo que componen
 ### 2°envio: Navegação via Propriedade (`props`)
 Uso da propriedade `navigation` injetada automaticamente pelo Navigator nas telas registradas.
 > **Vantagem:** Abordagem clássica e direta para telas principais da rota.
+
+### 3° Envio: Tipagem Flexível e Parâmetros
+Implementação de **TypeScript** para garantir segurança no fluxo de dados entre telas.
+> **Passagem de Parâmetros:** Demonstração de como enviar e receber dados (ex: IDs, nomes ou objetos) através da rota.
+
+> **Tipagem:** Definição de tipos para as rotas, evitando erros de navegação para telas inexistentes ou envio de parâmetros incorretos.
