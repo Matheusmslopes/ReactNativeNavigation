@@ -10,7 +10,7 @@ O projeto conta com a estruturação de:
 
 ---
 
-Stack: 
+**Stack:**
 
 ### 1° envio: Navegação via Hook (`useNavigation`)
 Implementação utilizando o hook moderno da biblioteca, permitindo que componentes funcionais realizem a navegação sem depender de props diretas.
@@ -25,3 +25,16 @@ Implementação de **TypeScript** para garantir segurança no fluxo de dados ent
 > **Passagem de Parâmetros:** Demonstração de como enviar e receber dados (ex: IDs, nomes ou objetos) através da rota.
 
 > **Tipagem:** Definição de tipos para as rotas, evitando erros de navegação para telas inexistentes ou envio de parâmetros incorretos.
+
+
+---
+
+**Bottom Tabs:**
+### 4° Envio: Navegação por Abas (`Bottom Tabs`)
+Implementação da navegação inferior, ideal para a organização das funcionalidades principais do app.
+> **UX/UI:** Melhor acessibilidade e troca rápida de contexto entre telas principais.
+
+> **Customização:** Configuração de ícones e estilos para a barra de abas.
+
+---
+
