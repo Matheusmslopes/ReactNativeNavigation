@@ -38,3 +38,9 @@ Implementação da navegação inferior, ideal para a organização das funciona
 
 ---
 
+**Drawer:**
+### 5° Envio: Navegação Lateral (`Drawer Navigation`)
+Adição do menu lateral deslizante, ideal para navegação global, perfis de usuário e configurações do sistema.
+> **Gesto:** Suporte a deslizar (swipe) para abrir/fechar.
+
+> **Customização:** Organização de itens de menu secundários.
